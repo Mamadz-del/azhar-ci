@@ -1,0 +1,13 @@
+.menu{
+    background-color:aqua;
+    height: 30px;
+    padding: 10px;
+}
+
+.menu a {
+    background-color: rgb(36, 132, 183);
+    text-decoration: none;
+    color: wheat;
+    padding: 5px;
+    border-radius: 8%;
+}
